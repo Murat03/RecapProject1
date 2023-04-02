@@ -1,0 +1,16 @@
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\bin\Debug\RecapProject1.exe.config
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\bin\Debug\RecapProject1.exe
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\bin\Debug\RecapProject1.pdb
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.AssemblyReference.cache
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.SuggestedBindingRedirects.cache
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\obj\Debug\RecapProject1.Form1.resources
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\obj\Debug\RecapProject1.Properties.Resources.resources
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.GenerateResource.cache
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.CoreCompileInputs.cache
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\obj\Debug\RecapProject1.exe
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\obj\Debug\RecapProject1.pdb
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\bin\Debug\EntityFramework.dll
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\bin\Debug\EntityFramework.xml
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yazilim\C#\CSharpCourse\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.CopyComplete
